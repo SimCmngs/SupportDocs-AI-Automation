@@ -113,8 +113,6 @@ Integration with `Microsoft 365` / Cloud services:
 > 
 > Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
-<iframe src="https://scribehow.com/embed/Sharing_a_FileFolder_on_OneDrive_with_Specific_Permissions__L5xjG7QBQOi7U98ZjNiq9g" width="100%" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 ---
 
 ## 📊 Results:
