@@ -49,7 +49,7 @@ The Support Team was receiving a high volume of tickets related to microphone is
 - ❌ Difficulty in keeping PDF documentation up-to-date
 
 ## 💡 Solution:
-After doing some research, I chose to implement the documentation tool called `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
+After doing some research, I chose to implement the documentation tool `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
 
 `Scribe` was able to address each of the identified problem statements and offered the following key features:
 1. ✅ AI-Generated step instructions and formatting
@@ -112,6 +112,8 @@ Integration with `Microsoft 365` / Cloud services:
 > Exported Scribe docs to **HTML**, **Markdown** and **PDF** files.
 > 
 > Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
+
+<iframe src="https://scribehow.com/embed/Sharing_a_FileFolder_on_OneDrive_with_Specific_Permissions__L5xjG7QBQOi7U98ZjNiq9g" width="100%" height="640" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ---
 
