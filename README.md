@@ -42,7 +42,7 @@ The IT department's current system for creating support documentation, has led t
 > This resulted in <ins>outdated instructions</ins> that weren't matching the users' screens, leaving them unable to resolve issues independently.
 
 ## ⛔ Problem Statement:
-The Support Team was receiving a high volume of tickets related to microphone issues in Microsoft Teams. The problems ranged from:
+The problems ranged from:
 
 - ❌ Time-consuming, manual creation of support documentation 
 - ❌ Lack of visual guidance, limiting the ability to follow instructions effectively
@@ -117,7 +117,7 @@ Integration with `Microsoft 365` / Cloud services:
 ---
 
 ## 📊 Results:
-The integration of the AI-Documentation Tool (Scribe) resulted in the following benefits:
+The updated process for creating support documentation with **AI-Scribe**, achieved the following results:
 - 📚 **Optimized Documentation Process**
 >    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
     
