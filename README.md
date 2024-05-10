@@ -52,12 +52,13 @@ The Support Team was receiving a high volume of tickets related to microphone is
 After doing some research, I chose to implement the documentation tool `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
 
 `Scribe` was able to address each of the identified problem statements and offered the following key features:
-1. ✅ AI-Generated step instructions and formatting
-> *(speeding up the creation process for support docs)*
-2. ✅ Automated capturing and annotation of screenshots 
-> *(providing visual guidance to accompany text instructions)*
-3. ✅ Cloud-hosted support docs, in HTML format 
-> *(allowing for real-time updates & changes to documentation)*   
+- ✅ AI-Generated step instructions and formatting
+  - *(speeding up the creation process for support docs)*
+- ✅ Automated capturing and annotation of screenshots
+  - *(providing visual guidance to accompany text instructions)*
+- ✅ Cloud-hosted support docs, in HTML format
+  - *(allowing for real-time updates & changes to documentation)*
+ 
 
 ---
 
