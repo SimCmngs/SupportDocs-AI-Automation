@@ -58,7 +58,6 @@ After doing some research, I chose to implement the documentation tool `Scribe`,
   - *(providing visual guidance to accompany text instructions)*
 - ✅ Cloud-hosted support docs, in HTML format
   - *(allowing for real-time updates & changes to documentation)*
- 
 
 ---
 
