@@ -117,6 +117,14 @@ Integration with `Microsoft 365` / Cloud services:
 > 
 > Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
+`Scribe` -support doc
+
+<details><summary>USER GUIDE: Collaborative File Sharing on OneDrive - with Custom Permissions</summary>
+
+
+
+</details>
+
 ---
 
 ## 📊 Results:
