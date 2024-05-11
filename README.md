@@ -80,7 +80,7 @@ After doing some research, I chose to implement the documentation tool `Scribe`,
 
 #### <ins>**Company Branding**</ins>
 
-- Developed support document templates, and uploaded logos and custom hex codes to match the company's branding.
+- Developed support document templates, with uploaded logos and custom hex codes to match the company's branding.
 
 ---
 
