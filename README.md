@@ -41,6 +41,8 @@ The IT department's current system for creating support documentation, has led t
 >
 > This resulted in <ins>outdated instructions</ins> that weren't matching the users' screens, leaving them unable to resolve issues independently.
 
+<img src="IMG_CreatingUserGuide3.jpg" width="40%" height="40%" />
+
 ## ⛔ Problem Statement:
 The problems ranged from:
 
@@ -117,7 +119,7 @@ Integration with `Microsoft 365` / Cloud services:
 > 
 > Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
-<img src="IMG_Scribe-Export-Options.png" width="35%" height="35%" />
+<img src="IMG_Scribe-Export-Options.png" width="40%" height="40%" />
 
 `Scribe`
 
