@@ -33,7 +33,7 @@ The IT department's current system for creating support documentation, has led t
 
 > Most of the support docs are written as step-by-step instructions, saved as response templates in our ticketing system. But non-technical users often struggled with these text-only user guides.
 >
-> The <ins>lack of visual-aids</ins>  to help provide context, led to users being confused and making errors during the process of following these step instructions.
+> The <ins>lack of visual-aids</ins>  to provide context, led to users being confused and making errors during the process of following these step instructions.
 
 **3. Version Control** - <ins>lack of document maintenance</ins> 
 
@@ -101,23 +101,23 @@ After doing some research, I chose to implement `Scribe`, an AI-powered tool tha
 
 Integration with `Microsoft 365` / Cloud services:
 
-#### <ins>**SharePoint Online**</ins>
+#### <ins>**1. SharePoint Online**</ins>
 
-> Embedded Scribe docs as **HTML code** to the <ins>Communication Site</ins>, for hosting internal support documentation such as SOPs, training manuals and troubleshooting guides.
+> - Embedded Scribe docs as **HTML code** to the <ins>Communication Site</ins>, for hosting internal support documentation such as SOPs, training manuals and troubleshooting guides.
 > 
-> *(For private access - restricted to IT Support team members only)* 
+> - *(For private access - restricted to IT Support team members only)* 
 
-#### <ins>**Confluence**</ins>
+#### <ins>**2. Confluence**</ins>
 
-> Embedded Scribe docs as **HTML code** to the <ins>Knowledge Base</ins> page, for hosting public-facing users guides and FAQs.
+> - Embedded Scribe docs as **HTML code** to the <ins>Knowledge Base</ins> page, for hosting public-facing users guides and FAQs.
 > 
-> *(For public access - customers, end-users and clients)*
+> - *(For public access - customers, end-users and clients)*
 
-#### <ins>**OneDrive for Business**</ins>
+#### <ins>**3. OneDrive for Business**</ins>
 
-> Exported Scribe docs to **HTML**, **Markdown** and **PDF** files.
+> - Exported Scribe docs to **HTML**, **Markdown** and **PDF** files.
 > 
-> Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
+> - Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
 <img src="IMG_Scribe-Export-Options.png" width="40%" height="40%" />
 
@@ -134,7 +134,7 @@ Integration with `Microsoft 365` / Cloud services:
 > This support guide was created, to help a user share their project files and colloborate with Team Members on `OneDrive` for Business.
 > 
 > Details the process of:
-> - Assigning file permissions, such as (View Only, Can Edit, Set Password).
+> - Assigning file permissions, to access their OneDrive folders (View Only, Can Edit, Set Password).
 > - Generating and sending a URL link to Team Members.
 
 ---
