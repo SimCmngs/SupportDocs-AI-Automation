@@ -60,9 +60,9 @@ After doing some research, I chose to implement `Scribe`, an AI-powered tool tha
   - *(providing visual guidance to accompany text instructions)*
 - ✅ Cloud-hosted support docs, in HTML format
   - *(allowing for real-time updates & changes to documentation)*
- 
-<img src="IMG_ScibeStepRec1.png" width="25%" height="25%" /> <img src="IMG_ScibeStepRec2.png" width="25%" height="25%" /> 
 
+<img src="IMG_ScibeStepRec1.png" width="25%" height="25%" /> <img src="IMG_ScibeStepRec2.png" width="25%" height="25%" /> 
+ 
 ---
 
 # 💻 Implementation:
