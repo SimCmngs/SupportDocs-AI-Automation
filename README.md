@@ -121,7 +121,9 @@ Integration with `Microsoft 365` / Cloud services:
 
 <img src="IMG_Scribe-Export-Options.png" width="40%" height="40%" />
 
-`Scribe`
+---
+
+`Scribe` *-example*
 
 <details><summary>USER GUIDE: Collaborative File Sharing on OneDrive - with Custom Permissions</summary>
 
