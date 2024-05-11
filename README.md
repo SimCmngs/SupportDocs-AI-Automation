@@ -117,16 +117,18 @@ Integration with `Microsoft 365` / Cloud services:
 > 
 > Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
-`Scribe`<ins>-generated Support Doc</ins>
+<img src="IMG_Scribe-Export-Options.png" width="35%" height="35%" />
+
+`Scribe`
 
 <details><summary>USER GUIDE: Collaborative File Sharing on OneDrive - with Custom Permissions</summary>
 
-<img src="IMG_ScribeDoc-FileShare-on-OneDrive-with-Permissions.png" width="70%" height="70%" />
+<img src="IMG_ScribeDoc-FileShare-on-OneDrive-with-Permissions.png" width="80%" height="80%" />
 
 </details>
 
-> [!NOTE]
 > This support guide was created, to help a user share their project files and colloborate with Team Members on `OneDrive` for Business.
+> 
 > Details the process of:
 > - Assigning file permissions, such as (View Only, Can Edit, Set Password).
 > - Generating and sending a URL link to Team Members.
