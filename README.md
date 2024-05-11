@@ -41,7 +41,7 @@ The IT department's current system for creating support documentation, has led t
 >
 > This resulted in <ins>outdated instructions</ins> that weren't matching the users' screens, leaving them unable to resolve issues independently.
 
-<img src="IMG_CreatingUserGuide3.jpg" width="40%" height="40%" />
+<img src="IMG_CreatingUserGuide3.jpg" width="40%" height="40%" /> <img src="IMG_CreatingUserGuide2.jpg" width="40%" height="40%" />
 
 ## ⛔ Problem Statement:
 The problems ranged from:
