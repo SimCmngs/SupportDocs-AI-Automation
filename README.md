@@ -49,7 +49,7 @@ The problems ranged from:
 - ❌ Difficulty in keeping PDF documentation up-to-date
 
 ## 💡 Solution:
-After doing some research, I chose to implement the documentation tool `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
+After doing some research, I chose to implement `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
 
 `Scribe` was able to address each of the identified problem statements and offered the following key features:
 - ✅ AI-Generated step instructions and formatting
@@ -124,7 +124,7 @@ The updated process for creating support documentation with **AI-Scribe**, achie
 - 📚 **Optimized Documentation Process**
 >    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
     
-- 📉 **Reduced IT support requests**
+- 📉 **Reduced Support Ticket Volume**
 >    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themsleves</ins>).
     
 - 😊 **Improved User Satisfaction**
