@@ -80,7 +80,7 @@ After doing some research, I chose to implement the documentation tool `Scribe`,
 
 #### <ins>**Company Branding**</ins>
 
-- Developed support document templates, with uploaded logos and custom hex codes to match the company's branding.
+- Developed support document templates, with logos and custom hex codes to match the company's branding.
 
 ---
 
@@ -89,6 +89,8 @@ After doing some research, I chose to implement the documentation tool `Scribe`,
 - Identified high-priority articles for migration.
 
 - Then converted exisiting PDF/Word files into Scribe-generated support docs, using the `AI Step Recorder` to screen record action steps and processes.
+
+<img src="GIF_ScribeStepRec.gif" width="70%" height="70%" />
 
 ---
 
