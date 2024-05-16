@@ -6,7 +6,7 @@ This project aims to automate the process of creating support documentation, usi
 
 > This project was originally made, to quickly develop visual support guides for non-technical users, struggling with text-only instructions.
 > 
-> The project has since been adapted to function within a hypothetical IT support environment, integrating with **Microsoft 365** for use with *SharePoint Online* and *OneDrive*.
+> The project has since been adapted to function within a hypothetical IT support environment, integrating with **Microsoft 365** for use with *SharePoint Online's* document management system.
 
 ## 🛠 Tools & Technologies:
 
