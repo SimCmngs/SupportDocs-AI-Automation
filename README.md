@@ -144,7 +144,7 @@ The updated process for creating support documentation with **AI-Scribe**, achie
 - 📚 **Optimized Documentation Process**
 >    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
     
-- 📉 **Reduced Support Ticket Volume**
+- 📉 **Reduced Support Requests**
 >    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themsleves</ins>).
     
 - 😊 **Improved User Satisfaction**
