@@ -41,7 +41,7 @@ The IT department's current system for creating support documentation, has led t
 >
 > This resulted in <ins>outdated instructions</ins> that weren't matching the users' screens, leaving them unable to resolve issues independently.
 
-<img src="IMG_CreatingUserGuide3.jpg" width="30%" height="30%" /> <img src="IMG_CreatingUserGuide2.jpg" width="30%" height="30%" /> <img src="IMG_CreatingUserGuide1.jpg" width="30%" height="30%" />
+<img src="images/IMG_CreatingUserGuide3.jpg" width="30%" height="30%" /> <img src="images/IMG_CreatingUserGuide2.jpg" width="30%" height="30%" /> <img src="images/IMG_CreatingUserGuide1.jpg" width="30%" height="30%" />
 
 ## ⛔ Problem Statement:
 The problems ranged from:
@@ -61,7 +61,7 @@ After doing some research, I chose to implement `Scribe`, an AI-powered tool tha
 - ✅ Cloud-hosted support docs, in HTML format
   - *(allowing for real-time updates & changes to documentation)*
 
-<img src="IMG_ScibeStepRec1.png" width="25%" height="25%" /> <img src="IMG_ScibeStepRec2.png" width="25%" height="25%" /> 
+<img src="images/IMG_ScibeStepRec1.png" width="25%" height="25%" /> <img src="images/IMG_ScibeStepRec2.png" width="25%" height="25%" /> 
  
 ---
 
@@ -93,7 +93,7 @@ After doing some research, I chose to implement `Scribe`, an AI-powered tool tha
 
 - Then converted exisiting PDF/Word files into Scribe-generated support docs, using the `AI Step Recorder` to screen record action steps and processes.
 
-<img src="GIF_ScribeStepRec.gif" width="70%" height="70%" />
+<img src="images/GIF_ScribeStepRec.gif" width="70%" height="70%" />
 
 ---
 
@@ -119,15 +119,15 @@ Integration with `Microsoft 365` / Cloud services:
 > 
 > - Uploaded to OneDrive's <ins>cloud storage</ins> service to serve as backup copies, and to host on different platforms.
 
-<img src="IMG_Scribe-Export-Options.png" width="40%" height="40%" />
+<img src="images/IMG_Scribe-Export-Options.png" width="40%" height="40%" />
 
 ---
 
 `Scribe` *-example*
 
-<details><summary>USER GUIDE: Collaborative File Sharing on OneDrive - with Custom Permissions</summary>
+<details><summary>USER GUIDE: Collaborative File Sharing on OneDrive - with Custom Permissions
 
-<img src="IMG_ScribeDoc-FileShare-on-OneDrive-with-Permissions.png" width="80%" height="80%" />
+<img src="images/IMG_ScribeDoc-FileShare-on-OneDrive-with-Permissions.png" width="80%" height="80%" />
 
 </details>
 
