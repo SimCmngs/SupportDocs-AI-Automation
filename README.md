@@ -23,9 +23,9 @@ This project aims to automate the process of creating support documentation, usi
 
 The IT department's current system for creating support documentation, has led to several challenges for both our customers and support team members:
 
-**1. The Creation Process** - <ins>labour-intesive and time-consuming</ins> 
+**1. The Creation Process** - <ins>labour-intensive and time-consuming</ins> 
 
-> Manually creating support docs is a tedious process, involving multiple steps. From capturing screenshots, to adding annotations, to writing instructions, and arranging everything to create a visaully cohesive and professional-looking user guide.
+> Manually creating support docs is a tedious process, involving multiple steps. From capturing screenshots, to adding annotations, to writing instructions, and arranging everything to create a visually cohesive and professional-looking user guide.
 >
 > This <ins>long process</ins>, led to the Support Team <ins>prioritizing only common support tickets for documentation</ins>, leaving many users without visual support guides for self-troubleshooting.
 
@@ -51,7 +51,7 @@ The problems ranged from:
 - ❌ Difficulty in keeping PDF documentation up-to-date
 
 ## 💡 Solution:
-After doing some research, I chose to implement `Scribe`, an AI-powered tool that automates the documenation process, by analysing recorded actions and generating professionally structured user guides.
+After doing some research, I chose to implement `Scribe`, an AI-powered tool that automates the documentation process, by analysing recorded actions and generating professionally structured user guides.
 
 `Scribe` was able to address each of the identified problem statements and offered the following key features:
 - ✅ AI-Generated step instructions and formatting
@@ -91,7 +91,7 @@ After doing some research, I chose to implement `Scribe`, an AI-powered tool tha
 
 - Identified high-priority articles for migration.
 
-- Then converted exisiting PDF/Word files into Scribe-generated support docs, using the `AI Step Recorder` to screen record action steps and processes.
+- Then converted existing PDF/Word files into Scribe-generated support docs, using the `AI Step Recorder` to screen record action steps and processes.
 
 <img src="images/GIF_ScribeStepRec.gif" width="70%" height="70%" />
 
@@ -131,7 +131,7 @@ Integration with `Microsoft 365` / Cloud services:
 
 </details>
 
-> This support guide was created, to help a user share their project files and colloborate with Team Members on `OneDrive` for Business.
+> This support guide was created, to help a user share their project files and collaborate with Team Members on `OneDrive` for Business.
 > 
 > Details the process of:
 > - Assigning file permissions, to access their OneDrive folders (View Only, Can Edit, Set Password).
@@ -142,10 +142,10 @@ Integration with `Microsoft 365` / Cloud services:
 ## 📊 Results:
 The updated process for creating support documentation with **AI-Scribe**, achieved the following results:
 - 📚 **Optimized Documentation Process**
->    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
+>    - (AI-generated user guides, will automate the entire process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
     
 - 📉 **Reduced Support Requests**
->    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themsleves</ins>).
+>    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themselves</ins>).
     
 - 😊 **Improved User Satisfaction**
 >    - (Cloud-hosted support docs, will enable automatic updates, giving users access to the most accurate information, resulting in <ins>fewer errors during troubleshooting.</ins>).
