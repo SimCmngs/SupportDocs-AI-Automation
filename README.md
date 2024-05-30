@@ -2,7 +2,7 @@
 
 This project aims to automate the process of creating support documentation, using an **AI cloud-hosted** *Step Recorder* and *Documentation Builder*.
 
-![Diagram](IMG_AI-SupportDocs-Diagram.png)
+![Diagram](images/IMG_AI-SupportDocs-Diagram.png)
 
 > This project was originally made, to quickly develop visual support guides for non-technical users, struggling with text-only instructions.
 > 
